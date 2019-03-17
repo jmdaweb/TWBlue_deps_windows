@@ -26,7 +26,7 @@ SFX a   ie        y         [^km]anie
 SFX c Y 1
 SFX c   i         u         i
 
-SFX F Y 442
+SFX F Y 416
 SFX F   c         g³em      lec
 SFX F   c         g³e¶      lec
 SFX F   c         g³        lec
@@ -131,58 +131,32 @@ SFX F   n±æ       liby      edn±æ
 SFX F   edn±æ     ad³yby¶my edn±æ
 SFX F   edn±æ     ad³yby¶cie edn±æ
 SFX F   edn±æ     ad³yby    edn±æ
-SFX F   æ         ³em       [^e]zn±æ
-SFX F   ±æ        ê³am      [^e]zn±æ
-SFX F   æ         ³e¶       [^e]zn±æ
-SFX F   ±æ        ê³a¶      [^e]zn±æ
-SFX F   æ         ³         [^e]zn±æ
-SFX F   ±æ        ê³a       [^e]zn±æ
-SFX F   ±æ        ê³o       [^e]zn±æ
-SFX F   ±æ        êli¶my    [^e]zn±æ
-SFX F   ±æ        ê³y¶my    [^e]zn±æ
-SFX F   ±æ        êli¶cie   [^e]zn±æ
-SFX F   ±æ        ê³y¶cie   [^e]zn±æ
-SFX F   ±æ        êli       [^e]zn±æ
-SFX F   ±æ        ê³y       [^e]zn±æ
-SFX F   æ         ³bym      [^e]zn±æ
-SFX F   ±æ        ê³abym    [^e]zn±æ
-SFX F   æ         ³by¶      [^e]zn±æ
-SFX F   ±æ        ê³aby¶    [^e]zn±æ
-SFX F   æ         ³by       [^e]zn±æ
-SFX F   ±æ        ê³aby     [^e]zn±æ
-SFX F   ±æ        ê³oby     [^e]zn±æ
-SFX F   ±æ        êliby¶my  [^e]zn±æ
-SFX F   ±æ        êliby¶cie [^e]zn±æ
-SFX F   ±æ        êliby     [^e]zn±æ
-SFX F   ±æ        ê³yby¶cie [^e]zn±æ
-SFX F   ±æ        ê³yby¶my  [^e]zn±æ
-SFX F   ±æ        ê³yby     [^e]zn±æ
-SFX F   n±æ       ³em       ezn±æ
-SFX F   n±æ       ³am       ezn±æ
-SFX F   n±æ       ³e¶       ezn±æ
-SFX F   n±æ       ³a¶       ezn±æ
-SFX F   n±æ       ³         ezn±æ
-SFX F   n±æ       ³a        ezn±æ
-SFX F   n±æ       ³o        ezn±æ
-SFX F   n±æ       li¶my     ezn±æ
-SFX F   n±æ       ³y¶my     ezn±æ
-SFX F   n±æ       li¶cie    ezn±æ
-SFX F   n±æ       ³y¶cie    ezn±æ
-SFX F   n±æ       li        ezn±æ
-SFX F   n±æ       ³y        ezn±æ
-SFX F   n±æ       ³bym      ezn±æ
-SFX F   n±æ       ³abym     ezn±æ
-SFX F   n±æ       ³by¶      ezn±æ
-SFX F   n±æ       ³aby¶     ezn±æ
-SFX F   n±æ       ³by       ezn±æ
-SFX F   n±æ       ³aby      ezn±æ
-SFX F   n±æ       ³oby      ezn±æ
-SFX F   n±æ       liby¶my   ezn±æ
-SFX F   n±æ       liby¶cie  ezn±æ
-SFX F   n±æ       liby      ezn±æ
-SFX F   n±æ       ³yby¶cie  ezn±æ
-SFX F   n±æ       ³yby¶my   ezn±æ
-SFX F   n±æ       ³yby      ezn±æ
+SFX F   æ         ³em       zn±æ
+SFX F   ±æ        ê³am      zn±æ
+SFX F   æ         ³e¶       zn±æ
+SFX F   ±æ        ê³a¶      zn±æ
+SFX F   æ         ³         zn±æ
+SFX F   ±æ        ê³a       zn±æ
+SFX F   ±æ        ê³o       zn±æ
+SFX F   ±æ        êli¶my    zn±æ
+SFX F   ±æ        ê³y¶my    zn±æ
+SFX F   ±æ        êli¶cie   zn±æ
+SFX F   ±æ        ê³y¶cie   zn±æ
+SFX F   ±æ        êli       zn±æ
+SFX F   ±æ        ê³y       zn±æ
+SFX F   æ         ³bym      zn±æ
+SFX F   ±æ        ê³abym    zn±æ
+SFX F   æ         ³by¶      zn±æ
+SFX F   ±æ        ê³aby¶    zn±æ
+SFX F   æ         ³by       zn±æ
+SFX F   ±æ        ê³aby     zn±æ
+SFX F   ±æ        ê³oby     zn±æ
+SFX F   ±æ        êliby¶my  zn±æ
+SFX F   ±æ        êliby¶cie zn±æ
+SFX F   ±æ        êliby     zn±æ
+SFX F   ±æ        ê³yby¶cie zn±æ
+SFX F   ±æ        ê³yby¶my  zn±æ
+SFX F   ±æ        ê³yby     zn±æ
 SFX F   æ         ³em       [^ê]sn±æ
 SFX F   ±æ        ê³am      [^ê]sn±æ
 SFX F   æ         ³e¶       [^ê]sn±æ
@@ -572,7 +546,7 @@ SFX g   aæ        ±cej      [^i]waæ
 SFX g   aæ        ±ca       [^i]waæ
 SFX g   aæ        ±c±       [^i]waæ
 
-SFX H Y 1190
+SFX H Y 1216
 SFX H   c         g³em      [^l]±c
 SFX H   c         g³e¶      [^l]±c
 SFX H   c         g³        [^l]±c
@@ -1165,6 +1139,32 @@ SFX H   sn±æ      ¶liby¶cie êsn±æ
 SFX H   n±æ       ³yby¶cie  êsn±æ
 SFX H   sn±æ      ¶liby¶my  êsn±æ
 SFX H   n±æ       ³yby¶my   êsn±æ
+SFX H   n±æ       ³em       ezn±æ
+SFX H   n±æ       ³am       ezn±æ
+SFX H   n±æ       ³e¶       ezn±æ
+SFX H   n±æ       ³a¶       ezn±æ
+SFX H   n±æ       ³         ezn±æ
+SFX H   n±æ       ³a        ezn±æ
+SFX H   n±æ       ³o        ezn±æ
+SFX H   zn±æ      ¼li¶my    ezn±æ
+SFX H   n±æ       ³y¶my     ezn±æ
+SFX H   zn±æ      ¼li¶cie   ezn±æ
+SFX H   n±æ       ³y¶cie    ezn±æ
+SFX H   zn±æ      ¼li       ezn±æ
+SFX H   n±æ       ³y        ezn±æ
+SFX H   n±æ       ³bym      ezn±æ
+SFX H   n±æ       ³abym     ezn±æ
+SFX H   n±æ       ³by¶      ezn±æ
+SFX H   n±æ       ³aby¶     ezn±æ
+SFX H   n±æ       ³by       ezn±æ
+SFX H   n±æ       ³aby      ezn±æ
+SFX H   n±æ       ³oby      ezn±æ
+SFX H   zn±æ      ¼liby¶my  ezn±æ
+SFX H   zn±æ      ¼liby¶cie ezn±æ
+SFX H   zn±æ      ¼liby     ezn±æ
+SFX H   n±æ       ³yby¶cie  ezn±æ
+SFX H   n±æ       ³yby¶my   ezn±æ
+SFX H   n±æ       ³yby      ezn±æ
 SFX H   êzn±æ     ±z³em     êzn±æ
 SFX H   n±æ       ³am       êzn±æ
 SFX H   êzn±æ     ±z³e¶     êzn±æ
@@ -2887,12 +2887,12 @@ SFX I   ±¼æ       ê¼niecie  ±¼æ
 SFX I   ±¼æ       êzn±      ±¼æ
 
 SFX J Y 336
-SFX J   ±æ        êgê       si±c
-SFX J   ±æ        ê¿esz     si±c
-SFX J   ±æ        ê¿e       si±c
-SFX J   ±æ        ê¿emy     si±c
-SFX J   ±æ        ê¿ecie    si±c
-SFX J   ±æ        êg±       si±c
+SFX J   ±c        êgê       si±c
+SFX J   ±c        ê¿esz     si±c
+SFX J   ±c        ê¿e       si±c
+SFX J   ±c        ê¿emy     si±c
+SFX J   ±c        ê¿ecie    si±c
+SFX J   ±c        êg±       si±c
 SFX J   ec        okê       lec
 SFX J   0         zesz      lec
 SFX J   0         ze        lec
@@ -4867,7 +4867,7 @@ SFX N   ¼         ziach     ¼
 SFX N   0         ach       au
 SFX N   u         ach       [^a]u
 
-SFX O Y 79
+SFX O Y 80
 SFX O   0         a         [^æño¶uw¼]
 SFX O   x         ksa       x
 SFX O   æ         cia       æ
@@ -4885,7 +4885,7 @@ SFX O   0         owi       [^æño¶uw¼]
 SFX O   x         ksowi     x
 SFX O   æ         ciowi     æ
 SFX O   ñ         niowi     ñ
-SFX O   0         wi        [cdeghijlmnprstv]o
+SFX O   0         wi        [bcdeghijlmnprstv]o
 SFX O   ko        ce        ko
 SFX O   ³o        le        [^³s]³o
 SFX O   ³³o       lle       ³³o
@@ -4898,6 +4898,7 @@ SFX O   0         owi       au
 SFX O   u         owi       [^a]u
 SFX O   o         ê         ko
 SFX O   o         ê         ³o
+SFX O   x         ks        x
 SFX O   0         em        [^ægkño¶uw¼]
 SFX O   x         ksem      x
 SFX O   0         iem       [gk]
@@ -4914,11 +4915,11 @@ SFX O   0         em        [^ó]w
 SFX O   ów        owem      ów
 SFX O   0         em        au
 SFX O   u         em        [^a]u
-SFX O   0         ie        [^cædghjkl³ñor¶tuwyz¿¼]
+SFX O   0         ie        [^cædghijkl³ñor¶tuwyz¿¼]
 SFX O   x         ksie      x
 SFX O   0         zie       [^z]d
 SFX O   zd        ¼dzie     [iou]zd
-SFX O   0         u         [cghjkly¿]
+SFX O   0         u         [cghijkly¿]
 SFX O   0         ie        [aoueij³yz]z
 SFX O   0         u         [^aoueij³yz]z
 SFX O   0         ze        [^r]r
@@ -4934,8 +4935,8 @@ SFX O   ³         le        [^n]io³
 SFX O   o³        ele       nio³
 SFX O   æ         ciu       æ
 SFX O   ñ         niu       ñ
-SFX O   o         u         [^dek³mnprstv]o
-SFX O   o         ie        [smnpv]o
+SFX O   o         u         [^bdek³mnprstv]o
+SFX O   o         ie        [bsmnpv]o
 SFX O   o         ze        [^r]ro
 SFX O   ro        ze        rro
 SFX O   do        dzie      do
@@ -4948,13 +4949,14 @@ SFX O   0         ie        [^ó]w
 SFX O   ów        owie      ów
 SFX O   v         wie       v
 
-SFX Q Y 29
+SFX Q Y 30
 SFX Q   0         u         [^ñ]
 SFX Q   ñ         niu       ñ
 SFX Q   x         ksu       x
 SFX Q   0         owi       [^ñ]
 SFX Q   ñ         niowi     ñ
 SFX Q   x         ksowi     x
+SFX Q   x         ks        x
 SFX Q   0         em        [^gkñ]
 SFX Q   0         iem       [gk]
 SFX Q   ñ         niem      ñ
@@ -5033,13 +5035,13 @@ SFX s   æ         cie       æ
 SFX s   ñ         nie       ñ
 SFX s   ¶         sie       ¶
 SFX s   ¼         zie       ¼
-SFX s   o         e         [^dghknr]o
-SFX s   o         y         [dhnr]o
+SFX s   o         e         [^bdghknr]o
+SFX s   o         y         [bdhnr]o
 SFX s   o         i         [gk]o
 SFX s   0         y         [^ijh]u
 SFX s   u         y         hu
-SFX s   i         e         iu
-SFX s   j         e         ju
+SFX s   u         e         iu
+SFX s   u         e         ju
 
 SFX T Y 12
 SFX T   0         ów        [^aæoñ¶uw¼]
